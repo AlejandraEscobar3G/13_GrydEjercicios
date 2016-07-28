@@ -1,0 +1,28 @@
+.img_ajustada{
+	float: left;
+}
+
+.text_align{
+	text-align: justify;
+}
+
+.espacio{
+	margin-top: 3.5%;
+}
+
+.color_box{
+	background-color: #d7d7c1;
+}
+
+.contenido{
+	padding: 3%;
+}
+
+.img_centrada{
+	display: block;
+	margin:auto;
+}
+
+#padding_aside{
+	padding: 4%;
+}

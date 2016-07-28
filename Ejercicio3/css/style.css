@@ -1,0 +1,31 @@
+.fondo{
+	background-color: #d7d7c1;
+}
+
+.espacio{
+	margin-top: 3.5%;
+}
+
+#rojo{
+	background-color: red;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+}
+
+#amarillo{
+	background-color: yellow;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin-left: 40px;
+}
+
+.div{
+	height: 70px;
+}
+
+#id{
+	width: 50%;
+}

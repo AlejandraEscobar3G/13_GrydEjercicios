@@ -1,0 +1,28 @@
+.fondo{
+	background-color: #EAE9E9;
+}
+
+.espacio{
+	margin-top: 10%;
+}
+
+.text_justify{
+	text-align: justify;
+}
+
+.padding{
+	padding: 30px;
+}
+
+.margin{
+	margin: 3%;
+}
+
+.img{
+	display: block;
+	margin: auto;
+}
+
+.img_redonda{
+	border-radius: 50%;
+}

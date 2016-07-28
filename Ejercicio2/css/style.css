@@ -1,0 +1,16 @@
+.img_ajustada{
+	float: left;
+}
+
+.text_justify{
+	text-align: justify;
+}
+
+.img_centrada{
+	display: block;
+	margin:auto;
+}
+
+.espacio{
+	margin-top: 3.5%;
+}
